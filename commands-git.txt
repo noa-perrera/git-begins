@@ -1,0 +1,4 @@
+git clone "url du repository"
+git add .
+git commit -6 "first"
+git push
